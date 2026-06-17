@@ -45,4 +45,4 @@ Target: https://www.dtn.go.th/
 
 | Library | ความเห็น |
 |---|---|
-| **ECharts** (`echarts-for-react`) | แนะนำ — committee อ้างอิง tpso.go.th, open-source, สวยกว่า amCharts |
+| **ECharts** (`echarts-for-react`) | แนะนำ — committee อ้างอิง tpso.go.th, open-source, สวยกว่า amCharts — ดู prototype ที่ `demo-charts/` |
