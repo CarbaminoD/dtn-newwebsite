@@ -405,19 +405,6 @@
 
 | # | เว็บไซต์ | ประเด็นที่น่าสนใจ | URL |
 |---|---|---|---|
-| 1 | กระทรวงพาณิชย์ (ไทย) | — | [moc.go.th](https://www.moc.go.th/th/page/item/index/id/1) |
-| 2 | ทำเนียบขาว (สหรัฐฯ) | เน้นรูปภาพในการนำเสนอ ดูเป็นระเบียบ เข้าใจง่าย Active อยู่เสมอ เพิ่มความน่าเชื่อถือ | [whitehouse.gov](https://www.whitehouse.gov/contact/) |
-| 3 | กระทรวงการต่างประเทศ (ไทย) | จัดระเบียบเว็บไซต์ได้ดี ดูสบายตา แยกหมวดหมู่ชัดเจน ไม่ยุ่งเหยิง | [mfa.go.th](https://www.mfa.go.th/th/index) |
-| 4 | กระทรวงแรงงาน (ไทย) | ดูเป็นระเบียบ เข้าใจง่าย ใช้ไอคอนในการสื่อสารเป็นหลัก | [mol.go.th](https://www.mol.go.th/) |
-| 5 | กระทรวงคมนาคม (ไทย) | จัดวาง Layout ได้สวยและเป็นระเบียบ | [mot.go.th](https://www.mot.go.th/) |
-| 6 | ราชกิจจานุเบกษา | ดูเรียบง่าย หรูหรา จัดวางได้พรีเมียม | [ratchakitcha.soc.go.th](https://ratchakitcha.soc.go.th/) |
-| 7 | MOC Event — ศูนย์รวมกิจกรรมกระทรวงพาณิชย์ | ตัวอย่างเมนูอบรมสัมมนา | [event.moc.go.th](https://event.moc.go.th/th) |
-| 8 | กรมส่งเสริมการค้าระหว่างประเทศ (ไทย) | การจัดวางดี อ่านง่าย โมเดิร์น มี Stat ข้อมูลสำหรับ Researcher | [ditp.go.th](https://www.ditp.go.th/) |
-| 9 | กรมการค้าระหว่างประเทศ (สหรัฐฯ) | หน้าแรกเน้นการใช้งาน เครื่องมือคำนวณอัตราภาษี FTA อยู่หน้าหลัก | [trade.gov](https://www.trade.gov/) |
-| 10 | OECD | — | [oecd.org](https://www.oecd.org/) |
-| 11 | สำนักงานนโยบายและยุทธศาสตร์การค้า | ใช้ ECharts เป็น chart library — อ้างอิงเว็บไซต์นี้ในการเลือก library | [tpso.go.th](https://tpso.go.th/home) |
-| 12 | Ministry of Trade and Industry (Singapore) | — | [mti.gov.sg](https://www.mti.gov.sg/) |
-| 13 | USTR (US Trade Representative) | — | [ustr.gov](https://ustr.gov/) |
-| 14 | DTN — รายงานสินค้า | — | [dtn.go.th](https://www.dtn.go.th/th/trading/product/report) |
-| 15 | EU Access to Markets | — | [trade.ec.europa.eu](https://trade.ec.europa.eu/access-to-markets/en/home) |
-| 16 | EU Trade Agreements | — | [trade.ec.europa.eu](https://trade.ec.europa.eu/access-to-markets/en/content/trade-agreements-3) |
+| 1 | ธนาคารแห่งประเทศไทย | — | [bot.or.th](https://www.bot.or.th/th/home.html) |
+| 2 | กรมสรรพากร | — | [rd.go.th](https://www.rd.go.th/272.html) |
+| 3 | สำนักงานนโยบายและยุทธศาสตร์การค้า | ใช้ ECharts เป็น chart library — อ้างอิงเว็บไซต์นี้ในการเลือก library | [tpso.go.th](https://tpso.go.th/home) |
