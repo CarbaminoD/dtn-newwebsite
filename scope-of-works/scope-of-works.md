@@ -408,6 +408,156 @@
 | 1 | ธนาคารแห่งประเทศไทย | — | [bot.or.th](https://www.bot.or.th/th/home.html) |
 | 2 | กรมสรรพากร | — | [rd.go.th](https://www.rd.go.th/272.html) |
 | 3 | สำนักงานนโยบายและยุทธศาสตร์การค้า | ใช้ ECharts เป็น chart library — อ้างอิงเว็บไซต์นี้ในการเลือก library | [tpso.go.th](https://tpso.go.th/home) |
-| 4 | OECD | [oecd.org](https://www.oecd.org/) |
-| 5 | Ministry of Trade and Industry (Singapore) | [www.mti.gov.sg](https://www.mti.gov.sg/) |
-| 6 | USTR (US Trade Representative) | [ustr.gov](https://ustr.gov/) |
+| 4 | OECD | — | [oecd.org](https://www.oecd.org/) |
+| 5 | Ministry of Trade and Industry (Singapore) | — | [mti.gov.sg](https://www.mti.gov.sg/) |
+| 6 | USTR (US Trade Representative) | — | [ustr.gov](https://ustr.gov/) |
+| 7 | EU Access to Markets | — | [trade.ec.europa.eu](https://trade.ec.europa.eu/access-to-markets/en/home) |
+| 8 | EU Trade Agreements | — | [trade.ec.europa.eu](https://trade.ec.europa.eu/access-to-markets/en/content/trade-agreements-3) |
+
+---
+
+### การวิเคราะห์เว็บไซต์อ้างอิง
+
+#### 1. ธนาคารแห่งประเทศไทย ([bot.or.th](https://www.bot.or.th/th/home.html))
+
+**Layout และโครงสร้าง**
+- เมนูหลักลึกหลายชั้น ครอบคลุมเนื้อหา 8 กลุ่มหลัก ตั้งแต่ข่าวสาร นโยบาย สถิติ ไปจนถึงบริการให้ความรู้ทางการเงิน
+- แยกข้อมูลสำหรับผู้บริหารและสาธารณะออกจากกันอย่างชัดเจน
+
+**ฟีเจอร์เด่น**
+- **คำค้นหายอดนิยม** — แสดง keyword ที่ผู้ใช้ค้นบ่อย ช่วยลด friction การเข้าถึงข้อมูล
+- **เครื่องมือตรวจสอบ** — ตรวจสอบใบอนุญาต BOT และแอปสินเชื่อ ฝังตรงหน้าหลัก
+- **ช่องทางติดต่อสาขาภูมิภาค** — ครอบ 3 พื้นที่ในปุ่มเดียว ลดขั้นตอนการนำทาง
+
+**Accessibility และ UX**
+- ปรับขนาดฟ้อนท์ได้ รองรับ WCAG
+- นโยบายคุกกี้ชัดเจน พร้อม control ระดับผู้ใช้
+- เนื้อหาผสมทั้งบทความ วิดีโอ และฐานข้อมูล ไม่จำกัดเฉพาะเอกสารนโยบาย
+
+**ข้อเสนอแนะสำหรับ DTN**
+- นำ "คำค้นหายอดนิยม" มาใช้ในหน้า Search ของ dtn.go.th
+- รวมช่องทางติดต่อหลายรูปแบบในจุดเดียว แทนการกระจายหลายหน้า
+
+---
+
+#### 2. กรมสรรพากร ([rd.go.th](https://www.rd.go.th/272.html))
+
+**Layout และโครงสร้าง**
+- จัดกลุ่มเนื้อหาตามประเภทผู้ใช้ (บุคคลธรรมดา / นิติบุคคล / กฎหมายภาษี / ข่าวสาร)
+- Icon-card บนหน้าหลักแสดงบริการดิจิทัล 10+ รายการ ลด cognitive load
+
+**ฟีเจอร์เด่น**
+- **ปฏิทินภาษี** — แสดงกำหนดการยื่นแบบที่ใกล้มาถึงพร้อม link ฟอร์ม อัปเดตตามเวลาจริง
+- **Integrated News Feed** — รวมข่าวประชาสัมพันธ์ วิดีโอ และนโยบายไว้จุดเดียว ไม่แยก section
+- **Breadcrumb Navigation** — เส้นทางการนำทางชัดเจน ผู้ใช้ไม่หลงทาง
+- **รองรับภาษาอังกฤษ** — เมนูภาษาอังกฤษในส่วนหัว รองรับผู้ใช้ต่างชาติ
+
+**Accessibility และ UX**
+- ปุ่มปรับขนาดตัวอักษร (A+/A-) และ toggle ความสว่างหน้าจอ ✓ WCAG 2.0
+- ช่องทางร้องเรียนทุจริตสายตรง (1161) — สร้างความน่าเชื่อถือเชิงสถาบัน
+- Footer ครอบคลุม link มากกว่า 50 รายการ โดยไม่ทำให้หน้าหลักรกรุงรัง
+
+**ข้อเสนอแนะสำหรับ DTN**
+- นำแนวคิด **Icon-card บริการดิจิทัล** มาใช้บนหน้าหลัก dtn.go.th เพื่อให้ผู้ใช้เข้าถึงบริการหลักได้ทันที
+- พัฒนา **ปฏิทินกิจกรรม/การเจรจา** ในลักษณะเดียวกัน แสดงกำหนดการ FTA พร้อม link เอกสาร
+- รวม **Multimedia (วิดีโอ + บทความ + เอกสาร)** ใน feed เดียว แทนการแยก section
+
+---
+
+#### 3. สำนักงานนโยบายและยุทธศาสตร์การค้า ([tpso.go.th](https://tpso.go.th/home))
+
+**Layout และโครงสร้าง**
+- Hero section พื้นหลังมืด + ภาพ candlestick chart ดูเป็นมืออาชีพด้านข้อมูลเศรษฐกิจ
+- แบ่งหน้าหลักเป็น 2 คอลัมน์: ซ้าย = ตารางข้อมูลดัชนี / ขวา = กราฟ interactive
+- ปุ่ม CTA "ดูทั้งหมด" สีเหลืองทอง โดดเด่น ชัดเจน
+
+**ฟีเจอร์เด่น**
+- **Dashboard เครื่องชี้วัดเศรษฐกิจ** — แสดงดัชนีสำคัญ (CPI, Core CPI, PPI, CMI, CCI, EXI, IMI) พร้อมค่า M/M, Y/Y, A/A ในตารางเดียว
+- **Tab switcher ข้ามดัชนี** — สลับดูกราฟของแต่ละดัชนีได้ทันทีโดยไม่โหลดหน้าใหม่
+- **Combined Bar + Line Chart (Dual Axis)** — แกน Y ซ้าย = Price Index (bar), แกน Y ขวา = % change (line) แสดง YOY, MOM, AOA ในกราฟเดียวกัน
+- **Export ข้อมูล** — ดาวน์โหลดได้ทั้ง CSV, XLS, PNG ในทุกกราฟ
+- **Chart type toggle** — สลับ line / bar / reset ได้จากปุ่มในกราฟ
+- **ปฏิทินแถลงข่าว** — แสดงวันประกาศข้อมูลล่วงหน้าควบคู่กับตัวเลขล่าสุด
+
+**ข้อเสนอแนะสำหรับ DTN**
+- ใช้ **ECharts (`echarts-for-react`)** พัฒนา Dashboard สถิติการค้า ตาม pattern Combined Bar + Line Dual Axis ของ tpso.go.th
+- เพิ่ม **Tab switcher** ให้ผู้ใช้สลับดูข้อมูลสินค้า / ประเทศคู่ค้า / FTA โดยไม่ต้องโหลดหน้าใหม่
+- รองรับ **Export CSV/XLS/PNG** ในทุก chart สำหรับนักวิจัยและสื่อมวลชน
+
+---
+
+#### 4. OECD ([oecd.org](https://www.oecd.org/))
+
+> หมายเหตุ: เว็บไซต์ไม่อนุญาตให้ดึงข้อมูลอัตโนมัติ (403 Forbidden) — รายการนี้ให้อ้างอิงด้วยตัวเองโดยตรง
+
+---
+
+#### 5. Ministry of Trade and Industry (Singapore) ([mti.gov.sg](https://www.mti.gov.sg/))
+
+**Layout และโครงสร้าง**
+- โครงสร้างแบบ **hierarchical hub** แบ่ง 3 เสาหลัก (Trade & International / Industry / Energy & Carbon) มองเห็นชัดตั้งแต่หน้าแรก
+- Navigation 5 หมวดหลัก + footer ซ้ำ link สำคัญ — ลดการ "หลงทาง" ของผู้ใช้
+
+**ฟีเจอร์เด่น**
+- **Economic Dashboard** — แสดง GDP และตัวเลขส่งออก real-time พร้อม CTA "explore full report" สร้างความโปร่งใสด้านข้อมูล
+- **Statutory Board Visual Grid** — แสดงหน่วยงานในสังกัด (EDB, Enterprise SG ฯลฯ) เป็น logo grid ให้ผู้ใช้เข้าใจ ecosystem ได้ทันที
+- **Cybersecurity/Scam Alert** — แจ้งเตือนด้านความปลอดภัยบนหน้าหลัก สร้างความน่าเชื่อถือ
+- **Multi-Channel Social** — LinkedIn, Instagram, Facebook, YouTube ครบใน footer
+
+**ข้อเสนอแนะสำหรับ DTN**
+- นำ **Economic Dashboard** มาใช้แสดงสถิติการค้าไทย (มูลค่านำเข้า-ส่งออก, FTA ที่มีผลบังคับใช้) บนหน้าหลัก
+- ทำ **หน่วยงานในเครือ** ให้เป็น visual grid (กรมส่งเสริมการค้า, สนค. ฯลฯ) แทนการลิสต์ข้อความ
+
+---
+
+#### 6. USTR — US Trade Representative ([ustr.gov](https://ustr.gov/))
+
+**Layout และโครงสร้าง**
+- Navigation แบ่งชัดเป็น Trade Agreements / Countries & Regions / Trade Topics / News — ผู้ใช้เข้าถึงได้ทั้งจาก "ประเทศ" และ "ประเด็น"
+- Leadership section โดดเด่น — แสดงชื่อและ bio ของผู้บริหารระดับสูงทุกคน
+
+**ฟีเจอร์เด่น**
+- **Multi-entry pathway** — ค้นหาข้อมูลได้ทั้งจาก "ประเทศคู่ค้า" "ประเภทสินค้า" หรือ "กลไกการเจรจา"
+- **Recent Activity Feed** — ข่าวและแถลงการณ์ล่าสุดแสดงวันที่ชัดเจน สื่อว่าองค์กรยังคง active
+- **Mission Statement ที่ชัดเจน** — ระบุพันธกิจของหน่วยงานไว้อย่างกระชับตรงหน้าแรก
+
+**ข้อเสนอแนะสำหรับ DTN**
+- ออกแบบ navigation ให้ผู้ใช้ค้นหาข้อมูล FTA ได้จากทั้ง "ประเทศคู่ค้า" และ "ประเภทสินค้า"
+- เพิ่ม **Leadership Profile** ของผู้บริหารกรมฯ เพื่อสร้างความน่าเชื่อถือในระดับสากล
+- มี **Mission Statement** สั้น กระชับ บนหน้าหลัก
+
+---
+
+#### 7. EU Access to Markets ([trade.ec.europa.eu](https://trade.ec.europa.eu/access-to-markets/en/home))
+
+**Layout และโครงสร้าง**
+- จัดกลุ่มเนื้อหาตาม **กลุ่มผู้ใช้** (SME, ผู้ส่งออกทั่วไป, ผู้กำหนดนโยบาย) แทนการแบ่งตาม topic อย่างเดียว
+- รองรับ **24 ภาษา EU** — สาธิตมาตรฐาน multilingual สำหรับ platform การค้านานาชาติ
+
+**ฟีเจอร์เด่น**
+- **My Trade Assistant** — เครื่องมือ interactive ช่วยค้นหาเงื่อนไขการค้า Rules of Origin และอัตราภาษี ตอบโจทย์ผู้ส่งออกโดยตรง
+- **Single Entry Point** — รวม trade barriers + international procurement ไว้จุดเดียว ลด friction การนำทาง
+- **Virtual Workshop & Tutorial** — Learning pathway หลายรูปแบบสำหรับผู้ใช้ที่ต้องการเรียนรู้
+
+**ข้อเสนอแนะสำหรับ DTN**
+- พัฒนาเครื่องมือ **"ค้นหาอัตราภาษี FTA"** หรือ **"ตรวจสอบกฎแหล่งกำเนิดสินค้า"** แบบ interactive
+- แบ่งเนื้อหาตาม **กลุ่มผู้ใช้** เช่น ผู้ประกอบการ SME / นักลงทุน / นักวิชาการ / ประชาชน
+
+---
+
+#### 8. EU Trade Agreements ([trade.ec.europa.eu](https://trade.ec.europa.eu/access-to-markets/en/content/trade-agreements-3))
+
+**การนำเสนอข้อตกลงการค้า**
+- จัดกลุ่มข้อตกลงตาม **ประเภทความสัมพันธ์** (FTA / DCFTA / EPA / Customs Union) แทนการเรียงตามตัวอักษร — ช่วยให้ผู้ใช้เข้าใจ "ระดับ" ความสัมพันธ์ได้ทันที
+- แต่ละข้อตกลงมีหน้า landing เป็นของตัวเอง ประกอบด้วย section มาตรฐาน (ภาษี, กฎแหล่งกำเนิด, การลงทุน, การจัดซื้อจัดจ้าง)
+
+**ฟีเจอร์เด่น**
+- **Breadcrumb Navigation** ชัดเจน ผู้ใช้รู้ตลอดว่าอยู่ที่ไหนในโครงสร้าง
+- **Contextual Quick Links** — ลิงก์ข้ามหมวดฝังตรงจุดที่ผู้ใช้ต้องการ ไม่ต้องกลับไปเมนูหลัก
+- **Dual-perspective entry** — แยก "ซื้อเข้าตลาด EU" vs. "ขายออกจาก EU" อย่างชัดเจน
+
+**ข้อเสนอแนะสำหรับ DTN**
+- จัดกลุ่ม FTA ไทยตาม **ระดับความสัมพันธ์** (FTA ทวิภาคี / อาเซียน / พหุภาคี) แทนการเรียงตามชื่อ
+- สร้างหน้า **landing ของแต่ละ FTA** ที่มีโครงสร้างมาตรฐาน (สินค้าที่ได้รับสิทธิ์ / ภาษี / วิธีขอใช้สิทธิ์)
+- ออกแบบให้รองรับมุมมองทั้ง **"ผู้นำเข้า"** และ **"ผู้ส่งออก"**
+
