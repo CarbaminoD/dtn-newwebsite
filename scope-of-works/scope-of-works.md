@@ -408,3 +408,6 @@
 | 1 | ธนาคารแห่งประเทศไทย | — | [bot.or.th](https://www.bot.or.th/th/home.html) |
 | 2 | กรมสรรพากร | — | [rd.go.th](https://www.rd.go.th/272.html) |
 | 3 | สำนักงานนโยบายและยุทธศาสตร์การค้า | ใช้ ECharts เป็น chart library — อ้างอิงเว็บไซต์นี้ในการเลือก library | [tpso.go.th](https://tpso.go.th/home) |
+| 4 | OECD | [oecd.org](https://www.oecd.org/) |
+| 5 | Ministry of Trade and Industry (Singapore) | [www.mti.gov.sg](https://www.mti.gov.sg/) |
+| 6 | USTR (US Trade Representative) | [ustr.gov](https://ustr.gov/) |
